@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eisusohtei.aicertification.info/sitemap.xml
